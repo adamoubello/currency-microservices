@@ -1,0 +1,4 @@
+com\adamoubello\microservices\limitsservice\controller\LimitsController.class
+com\adamoubello\microservices\limitsservice\bean\Limits.class
+com\adamoubello\microservices\limitsservice\configuration\Configuration.class
+com\adamoubello\microservices\limitsservice\LimitsServiceApplication.class

@@ -1,0 +1,4 @@
+com\adamoubello\microservices\currencyconversionservice\CurrencyConversion.class
+com\adamoubello\microservices\currencyconversionservice\CurrencyConversionController.class
+com\adamoubello\microservices\currencyconversionservice\CurrencyExchangeProxy.class
+com\adamoubello\microservices\currencyconversionservice\CurrencyConversionServiceApplication.class

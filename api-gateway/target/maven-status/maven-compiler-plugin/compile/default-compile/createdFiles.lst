@@ -1,0 +1,3 @@
+com\adamoubello\microservices\apigateway\LoggingFilter.class
+com\adamoubello\microservices\apigateway\ApiGatewayConfiguration.class
+com\adamoubello\microservices\apigateway\ApiGatewayApplication.class
